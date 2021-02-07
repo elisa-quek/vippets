@@ -1,0 +1,17 @@
+.btn-blackshort {
+	background-color: black;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+img {
+	padding-right: 30px;
+	width: 50%;
+}
+
+h2 {
+	font-family: 'Sriracha' , serif;
+
+}

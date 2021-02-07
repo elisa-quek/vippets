@@ -1,0 +1,22 @@
+.banner {
+	background-image: linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.3)), url(../../images/background.jpeg);
+	color: #333434;
+	padding: 150px 0px 50px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 30%;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 65px;
+	font-family: 'Sriracha' , serif;
+
+}
+
+.banner h2 {
+	font-size: 40px;
+	opacity: 0.8;
+	padding-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+}
